@@ -4,9 +4,6 @@
 
 ### 1.  Download the repository on your local computer.
 
-https://github.com/prabhat-123/Attendance_System_Using_Face_Recognition.git
-
-
 ### 2. After downloading, you have to open Command prompt/Anaconda prompt/Visual studio terminal to run this project.
 
 
@@ -41,13 +38,7 @@ For installing virtual environment on Anaconda Prompt(Windows):
 
 
        conda install -c anaconda virtualenv
-   
-   
-### On MacOS or Linux:
   
-  
-      py -m pip install --user virtualenv
-     
      
 ##### ii) After installing virtual environment, you have to install all the dependencies required to run this project in your virtual environment. For doing so you have to follow the following steps:
   
@@ -61,15 +52,6 @@ For installing virtual environment on Anaconda Prompt(Windows):
   
  ##### iii) After changing the working directory to the current repository/project create a virtual environment by using the following commands:
  
- ### On Windows:
-    For Visual Studio Code Users
-     
-     python -m venv venv 
-     
-     
-   Here venv is the name of the environment you like to choose.
-     
- 
  #### Recommended
      On Anaconda Prompt (Windows)
      
@@ -79,19 +61,9 @@ For installing virtual environment on Anaconda Prompt(Windows):
      conda create -n sams python=3.6
      
      
-     
- ### On Linux or Mac:
-     python3 -m venv venv
-    
-     
 ##### iv) After creating a virtual environment in a working directory, you need to activate the virtual environment:
 
  ### On Windows:
-   
-    On Visual Studio Code:
- 
-       venv\Scripts\activate
-       
  
  #### Recommended
    On Anaconda Prompt (Windows):
